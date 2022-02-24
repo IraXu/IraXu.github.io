@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iraxu.github.io/</id>
     <title>经纽座</title>
-    <updated>2022-02-24T06:12:05.343Z</updated>
+    <updated>2022-02-24T06:35:00.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iraxu.github.io/"/>
     <link rel="self" href="https://iraxu.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://iraxu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 经纽座</rights>
     <entry>
-        <title type="html"><![CDATA[WelCome to TeNwey]]></title>
+        <title type="html"><![CDATA[WelCome to TeNewy]]></title>
         <id>https://iraxu.github.io/post/welcome/</id>
         <link href="https://iraxu.github.io/post/welcome/">
         </link>
