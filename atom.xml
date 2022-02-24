@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iraxu.github.io/</id>
     <title>经纽座</title>
-    <updated>2022-02-24T05:06:09.469Z</updated>
+    <updated>2022-02-24T05:24:36.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iraxu.github.io/"/>
     <link rel="self" href="https://iraxu.github.io/atom.xml"/>
@@ -31,6 +31,18 @@
 <p>🌱  <strong>经纽座</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Economist – February 19, 2022]]></title>
+        <id>https://iraxu.github.io/post/TE20220219/</id>
+        <link href="https://iraxu.github.io/post/TE20220219/">
+        </link>
+        <updated>2022-02-19T05:09:29.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://iraxu.github.io//post-images/1645679551792.jpg" alt="" loading="lazy"></figure>
+<h2 id="下载链接">📩下载链接📩</h2>
+<p><a href="https://pan.baidu.com/s/1zjOL5f3DnARrJ0O2JPAgcA" target="_blank">点击下载</a><br>
+提取码：jj9z</p>
 ]]></content>
     </entry>
 </feed>
