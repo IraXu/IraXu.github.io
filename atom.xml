@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iraxu.github.io/</id>
     <title>经纽座</title>
-    <updated>2022-03-01T06:38:39.276Z</updated>
+    <updated>2022-03-01T06:39:03.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://iraxu.github.io/"/>
     <link rel="self" href="https://iraxu.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://iraxu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 经纽座</rights>
     <entry>
-        <title type="html"><![CDATA[暂时停更纽约时报]]></title>
+        <title type="html"><![CDATA[暂时停更双语版纽约时报]]></title>
         <id>https://iraxu.github.io/post/nyt20220226/</id>
         <link href="https://iraxu.github.io/post/nyt20220226/">
         </link>
